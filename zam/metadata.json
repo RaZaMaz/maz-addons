@@ -1,0 +1,9 @@
+{
+  "name": "zam",
+  "creator": "zam",
+  "description": "nothing",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "require": "Vigilance"
+  
+}
